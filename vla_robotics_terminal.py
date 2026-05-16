@@ -18,7 +18,7 @@ if not API_KEY:
     exit()
 
 client = genai.Client(api_key=API_KEY)
-MODEL_ID = "models/gemini-robotics-er-1.5-preview" 
+MODEL_ID = 'gemini-robotics-er-1.6-preview'
 
 def capturar_entorno():
     """Toma una fotografía instantánea para analizar el estado del espacio."""
