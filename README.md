@@ -261,14 +261,6 @@ cat .env
 
 ---
 
-## ✉️ Contacto & Soporte
-
-- **Issues**: Reporta bugs en la sección [Issues](https://github.com/tu-usuario/vla-robotics-agent/issues)
-- **Discussions**: Plantea ideas en [Discussions](https://github.com/tu-usuario/vla-robotics-agent/discussions)
-- **Email**: contacto@tudominio.com
-
----
-
 ## 📊 Estado del Proyecto
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
